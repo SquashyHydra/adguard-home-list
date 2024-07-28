@@ -17,6 +17,7 @@
 #subdomains unblocked
 @@||new-api.clickbank.net$client='10.0.0.20'
 @@||ssl.clickbank.net$client='10.0.0.20'
+@@||fls-na.amazon.com$client='10.0.0.20'
 
 #client 10.0.0.11
 #subdomains unblocked
