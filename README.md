@@ -2,4 +2,4 @@
 
 Go to <a href="https://github.com/AdguardTeam/AdGuardHome">Adguard Homes github</a>
 
-And follow their installation for you system <a href="https://github.com/AdguardTeam/AdGuardHome/wiki/Getting-Started">Adguard Home Getting Started</a>
+And follow their installation for your system <a href="https://github.com/AdguardTeam/AdGuardHome/wiki/Getting-Started">Adguard Home Getting Started</a>
