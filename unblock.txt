@@ -1,4 +1,3 @@
-#Unblock
 #global
 #domain unblock
 @@||torproject.org^$important
