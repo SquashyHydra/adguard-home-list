@@ -1,0 +1,3 @@
+#Block
+#Global
+||tracking.epicgames.com^$important

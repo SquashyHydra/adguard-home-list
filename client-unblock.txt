@@ -1,0 +1,28 @@
+#client specific
+#client 10.0.0.20
+#domains unblocked
+@@||clickbank.com^$client='10.0.0.20'
+@@||omappapi.com^$client='10.0.0.20'
+@@||sc-static.net^$client='10.0.0.20'
+@@||googletagmanager.com^$client='10.0.0.20'
+@@||googlesyndication.com^$client='10.0.0.20'
+@@||googleadservices.com^$client='10.0.0.20'
+@@||google-analytics.com^$client='10.0.0.20'
+@@||doubleclick.net^$client='10.0.0.20'
+@@||gvt2.com^$client='10.0.0.20'
+@@||microsoft.com^$client='10.0.0.20'
+@@||google.com^$client='10.0.0.20'
+@@||cloudflare.com^$client='10.0.0.20'
+@@||pinterest.com^$client='10.0.0.20'
+#subdomains unblocked
+@@||new-api.clickbank.net$client='10.0.0.20'
+@@||ssl.clickbank.net$client='10.0.0.20'
+
+#client 10.0.0.11
+#subdomains unblocked
+@@||cloud.unity3d.com^$client='10.0.0.11'
+
+#client 10.0.0.2
+#subdomains unblocked
+@@||sockjs-us2.pusher.com$client='10.0.0.2'
+@@||ws-us2.pusher.com$client='10.0.0.2'
