@@ -1,4 +1,6 @@
 #Unblock
 #global
+#domain unblock
 @@||torproject.org^$important
-@@||mv3817046.site^$important
+#subdomain unblock
+@@||ovmx.mv3817046.site^$important
