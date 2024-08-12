@@ -4,6 +4,7 @@
 @@||mv3817046.site^$important
 @@||activision.com^$important
 @@||getfoxyproxy.org^$important
+@@||mitmproxy.org^$important
 #subdomain unblock
 @@||ovmx.mv3817046.site^$important
 @@||vdnm.mv3817046.site^$important
