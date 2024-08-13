@@ -18,3 +18,5 @@
 ||juno.ea.com^$client='10.0.0.4'
 ||steamcdn-a.akamaihd.net$client='10.0.0.4'
 ||steamstatic.com^$client='10.0.0.4'
+||steamuserimages-a.akamaihd.net$client='10.0.0.4'
+||steamcommunity.com^$client='10.0.0.4'
