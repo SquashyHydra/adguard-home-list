@@ -16,3 +16,5 @@
 ||ea.com^$client='10.0.0.4'
 ||ubisoft.com^$client='10.0.0.4'
 ||juno.ea.com^$client='10.0.0.4'
+||steamcdn-a.akamaihd.net$client='10.0.0.4'
+||steamstatic.com^$client='10.0.0.4'
