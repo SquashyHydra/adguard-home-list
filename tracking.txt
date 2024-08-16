@@ -2,3 +2,4 @@
 #Global
 ||tracking.epicgames.com^$important
 ||in-addr.arpa^$important
+||wpad.dlink^$important
