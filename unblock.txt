@@ -15,4 +15,3 @@
 @@||prod-data-energon.infra-ext.activision.com^$important
 @@||protonvpn.net^$important
 @@||dbankcloud.com^$important
-@@||sentry.voicemod.net^$important
