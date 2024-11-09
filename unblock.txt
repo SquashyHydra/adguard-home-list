@@ -21,5 +21,6 @@
 @@||vybe.mv3817046.site^$important
 @@||gearupcouriers.dyndns.org^$important
 @@||prod-data-energon.infra-ext.activision.com^$important
+@@||1337x.unblockninja.com^$important
 # Bypass ad-blocker blocker
 @@||pagead2.googlesyndication.com^$important
