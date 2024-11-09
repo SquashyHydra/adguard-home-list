@@ -14,7 +14,7 @@
 @@||privateinternetaccess.com^$important
 @@||plausible.io^$important
 @@||kick.com^$important
-@@||www.datadoghq-browser-agent.com^$important
+@@||kickasstorrents.to^$important
 #subdomain unblock
 @@||ovmx.mv3817046.site^$important
 @@||vdnm.mv3817046.site^$important
@@ -22,5 +22,6 @@
 @@||gearupcouriers.dyndns.org^$important
 @@||prod-data-energon.infra-ext.activision.com^$important
 @@||1337x.unblockninja.com^$important
+@@||www.datadoghq-browser-agent.com^$important
 # Bypass ad-blocker blocker
 @@||pagead2.googlesyndication.com^$important
