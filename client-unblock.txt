@@ -2,6 +2,7 @@
 #client 10.0.0.20
 #domains unblocked
 @@||clickbank.com^$client='10.0.0.20'
+@@||clickbank.com^$client='10.0.0.1'
 @@||omappapi.com^$client='10.0.0.20'
 @@||sc-static.net^$client='10.0.0.20'
 @@||googletagmanager.com^$client='10.0.0.20'
