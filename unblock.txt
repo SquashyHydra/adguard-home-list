@@ -28,5 +28,6 @@
 @@||prod-data-energon.infra-ext.activision.com^$important
 @@||1337x.unblockninja.com^$important
 @@||www.datadoghq-browser-agent.com^$important
+@@||tinder.com^$important
 # Bypass ad-blocker blocker
 @@||pagead2.googlesyndication.com^$important
