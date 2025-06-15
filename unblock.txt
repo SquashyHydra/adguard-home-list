@@ -31,5 +31,9 @@
 @@||1337x.unblockninja.com^$important
 @@||www.datadoghq-browser-agent.com^$important
 @@||api.powerbi.com^$important
+@@||download.radmin-vpn.com^$important
+@@||collector.errors.ea.com^$important
+@@||fc.yahoo.com^$important
+@@||dit.whatsapp.net^$important
 # Bypass ad-blocker blocker
 @@||pagead2.googlesyndication.com^$important
