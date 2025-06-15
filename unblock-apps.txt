@@ -1,7 +1,0 @@
-#subdomains unblocked
-@@||data.gotinder.com$important
-@@||api.gotinder.com$important
-@@||images-ssl.gotinder.com$important
-@@||bma.bumble.com$important
-@@||bma-gew3.bumble.com$important
-@@||gew3.ecdn2.bumbcdn.com$important
