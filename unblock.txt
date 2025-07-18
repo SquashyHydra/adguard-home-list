@@ -36,5 +36,6 @@
 @@||dit.whatsapp.net^$important
 @@||cdn-cl-res.tlauncher.org^$important
 @@||rescl.tlauncher.org^$important^$important
+@@||mps.tlauncher.org^$important
 # Bypass ad-blocker blocker
 @@||pagead2.googlesyndication.com^$important
