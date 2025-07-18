@@ -34,5 +34,7 @@
 @@||collector.errors.ea.com^$important
 @@||fc.yahoo.com^$important
 @@||dit.whatsapp.net^$important
+@@||cdn-cl-res.tlauncher.org^$important
+@@||rescl.tlauncher.org^$important^$important
 # Bypass ad-blocker blocker
 @@||pagead2.googlesyndication.com^$important
