@@ -29,6 +29,10 @@
 @@||cloud.unity3d.com^$client='10.0.0.11'
 
 #client 10.0.0.2
+#domains unblocked
+@@||ntscorp.ru^$important$client='10.0.0.2'
+
+#client 10.0.0.2
 #subdomains unblocked
 @@||sockjs-us2.pusher.com$client='10.0.0.2'
 @@||ws-us2.pusher.com$client='10.0.0.2'
