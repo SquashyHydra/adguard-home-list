@@ -15,6 +15,7 @@
 @@||google.com^$client='10.0.0.20'
 @@||cloudflare.com^$client='10.0.0.20'
 @@||pinterest.com^$client='10.0.0.20'
+@@||googleapis.com^$client='10.0.0.20'
 
 #subdomains unblocked
 @@||new-api.clickbank.net$client='10.0.0.20'
