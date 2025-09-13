@@ -30,7 +30,7 @@
 
 #client 10.0.0.2
 #domains unblocked
-@@||ntscorp.ru^$important$client='10.0.0.2'
+@@||ntscorp.ru^$client='10.0.0.2'
 
 #client 10.0.0.2
 #subdomains unblocked
