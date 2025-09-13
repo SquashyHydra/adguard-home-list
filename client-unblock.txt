@@ -23,6 +23,7 @@
 @@||fls-na.amazon.com$client='10.0.0.20'
 @@||ads.google.com$client='10.0.0.20'
 @@||clientservices.googleapis.com^$client='10.0.0.20'
+@@||pbivisuals.powerbi.com^$client='10.0.0.20'
 
 #client 10.0.0.11
 #subdomains unblocked
